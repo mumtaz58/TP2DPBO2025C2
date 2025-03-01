@@ -1,6 +1,6 @@
 Janji
 
-Saya Armelia Zahrah Mumtaz dengan NIM 2300801 berjanji mengerjakan TP1 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
+Saya Armelia Zahrah Mumtaz dengan NIM 2300801 berjanji mengerjakan TP2 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
 
 Class PetShop
 Class PetShop merupakan class dasar (base class) untuk sistem manajemen produk pet shop.
