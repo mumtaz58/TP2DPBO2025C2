@@ -1,8 +1,9 @@
-Janji
+**Janji**
 
 Saya Armelia Zahrah Mumtaz dengan NIM 2300801 berjanji mengerjakan TP2 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
 
-Class PetShop
+**Class PetShop**
+
 Class PetShop merupakan class dasar (base class) untuk sistem manajemen produk pet shop.
 
  Atribut:
@@ -17,7 +18,7 @@ Class PetShop merupakan class dasar (base class) untuk sistem manajemen produk p
 - `size`: Ukuran produk (S, M, L, dll)
 - `merk`: Merek produk
 
- Methods:
+ **Methods:**
 - Constructor: Menginisialisasi semua atribut produk
 - Getter methods: Setiap atribut memiliki getter method untuk mengakses nilainya
   - `getId()`: Mengembalikan ID produk
@@ -32,27 +33,29 @@ Class PetShop merupakan class dasar (base class) untuk sistem manajemen produk p
   - `getMerk()`: Mengembalikan merek produk (virtual)
 - Destructor virtual: Memungkinkan pembebasan memori yang tepat untuk class turunan
 
- Class Aksesoris
+ **Class Aksesoris**
+ 
 Class Aksesoris merupakan turunan dari PetShop untuk produk-produk aksesoris hewan peliharaan.
 
-Methods:
+**Methods:**
 - Constructor: Meneruskan semua parameter ke constructor PetShop
 - Override methods:
   - `getJenis()`: Override method untuk fitur khusus jenis aksesoris
   - `getBahan()`: Override method untuk fitur khusus bahan aksesoris
   - `getWarna()`: Override method untuk fitur khusus warna aksesoris
 
- Class Baju
+ **Class Baju**
+ 
 Class Baju merupakan turunan dari Aksesoris untuk produk-produk pakaian hewan peliharaan.
 
-Methods:
+**Methods:**
 - Constructor: Meneruskan semua parameter ke constructor Aksesoris
 - Override methods:
   - `getUntuk()`: Override method untuk fitur khusus target hewan pakaian
   - `getSize()`: Override method untuk fitur khusus ukuran pakaian
   - `getMerk()`: Override method untuk fitur khusus merek pakaian
 
-Penjelasan Alur Program
+**Penjelasan Alur Program**
 
 1. Inisialisasi Program:
    - Program dimulai dengan inisialisasi vector yang berisi beberapa produk contoh dari berbagai jenis (PetShop, Aksesoris, dan Baju).
