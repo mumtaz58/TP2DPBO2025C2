@@ -2,6 +2,8 @@
 
 Saya Armelia Zahrah Mumtaz dengan NIM 2300801 berjanji mengerjakan TP2 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
 
+**Diagram**
+
 ![WhatsApp Image 2025-03-02 at 05 54 37_c9d2279b](https://github.com/user-attachments/assets/34a3e431-cc88-4526-8fe1-e73ef4dc2c3e)
 
 
