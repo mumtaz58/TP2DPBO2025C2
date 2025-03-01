@@ -1,0 +1,21 @@
+6
+Cat Hoodie
+45000
+7
+Pakaian
+Wol
+Kuning
+Kucing
+S
+MeowFashion
+
+7
+Dog Bandana
+15000
+5
+Bandana
+Poliester
+Merah
+Anjing
+L
+PawStyle
