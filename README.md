@@ -84,4 +84,4 @@ Class Baju merupakan turunan dari Aksesoris untuk produk-produk pakaian hewan pe
    - Semua memori yang dialokasikan untuk objek produk dibebaskan dengan loop delete.
    - Vector produk dikosongkan.
 
-Sistem ini menerapkan konsep polymorphism melalui penggunaan fungsi virtual di class dasar dan override di class turunan, memungkinkan class-class turunan untuk memiliki perilaku khusus saat memanggil method yang sama.
+
